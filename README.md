@@ -1,7 +1,5 @@
 # TP Algorithmes en Python
 
-Bienvenue dans ce TP d'algorithmes en Python. Ce TP est conçu pour vous aider à renforcer vos compétences en résolution de problèmes et en programmation.
-
 ## Objectifs
 
 - Appliquer des concepts d'algorithmique en Python.
