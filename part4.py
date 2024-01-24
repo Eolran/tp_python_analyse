@@ -8,10 +8,10 @@ population = part1.friendsOfFriends()
 zipList = part2.zipLevel()
 
 class User:
-    def __init__(self, id, name, level, friends, friendsOfFriends):
-        self.id = int(id)
-        self.name = str(name)
-        self.level = int(level)
+    def __init__(self, id: int = None, name: str = None, level: int = None, friends: list = None, friendsOfFriends: list = None):
+        self.id = id
+        self.name = name
+        self.level = level
         self.friends = friends
         self.friendsOfFriends = friendsOfFriends
 
